@@ -1,0 +1,1996 @@
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Inter:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.2
+File Name: D:\sites\trendyiptv.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1pL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7W0Q5nw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa25L7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2JL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2pL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7W0Q5n-wU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYAZ9hjQ.ttf
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfAZ9hjQ.ttf
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZ9hjQ.ttf
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hjQ.ttf
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hjQ.ttf
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeAZ9hjQ.ttf
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfAZ9hjQ.ttf
+File Name: D:\sites\trendyiptv.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPKhSkFE.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPKhSkFE.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tDMPKhSkFEkm8.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tDMPKhSkFEkm8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tMMPKhSkFEkm8.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tMMPKhSkFEkm8.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z11lFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1JlFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlFd2JQEk.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z11lFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1JlFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z11lFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1JlFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z11lFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1JlFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlFd2JQEk.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eOYktMqg.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eOYktMqg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VFteOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VFteOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VGdeOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VGdeOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eOYktMqg.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eOYktMqg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVFteOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVFteOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVGdeOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVGdeOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eOYktMqg.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eOYktMqg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVFteOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVFteOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVGdeOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVGdeOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eOYktMqg.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eOYktMqg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVFteOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVFteOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVGdeOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVGdeOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eOYktMqg.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eOYktMqg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VFteOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VFteOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VGdeOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VGdeOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eOYktMqg.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eOYktMqg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVFteOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVFteOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVGdeOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVGdeOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VFteOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VGdeOYktMqlap.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucXtAOvWDSHFF.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLufntAOvWDSHFF.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtAOvWDSA.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtAOvWDSA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucXtAOvWDSHFF.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucXtAOvWDSHFF.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTufntAOvWDSHFF.woff2
+File Name: D:\sites\trendyiptv.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTufntAOvWDSHFF.woff2
+Content Type: font/woff2
+
+Uri: https://trendyiptv.com/
+File Name: D:\sites\trendyiptv.com\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/cart/
+File Name: D:\sites\trendyiptv.com\cart\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/channels-list/
+File Name: D:\sites\trendyiptv.com\channels-list\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/checkout/
+File Name: D:\sites\trendyiptv.com\checkout\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/comments/feed/
+File Name: D:\sites\trendyiptv.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://trendyiptv.com/contact-us/
+File Name: D:\sites\trendyiptv.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/faq/
+File Name: D:\sites\trendyiptv.com\faq\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/feed/
+File Name: D:\sites\trendyiptv.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://trendyiptv.com/pricing/
+File Name: D:\sites\trendyiptv.com\pricing\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/privacy-policy/
+File Name: D:\sites\trendyiptv.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/product-category/all-services/
+File Name: D:\sites\trendyiptv.com\product-category\all-services\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/product-category/all-services/feed/
+File Name: D:\sites\trendyiptv.com\product-category\all-services\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://trendyiptv.com/product/1-month-iptv/
+File Name: D:\sites\trendyiptv.com\product\1-month-iptv\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/product/12-months-iptv/
+File Name: D:\sites\trendyiptv.com\product\12-months-iptv\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/product/3-months-iptv/
+File Name: D:\sites\trendyiptv.com\product\3-months-iptv\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/product/6-months-iptv/
+File Name: D:\sites\trendyiptv.com\product\6-months-iptv\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/refund-policy/
+File Name: D:\sites\trendyiptv.com\refund-policy\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/terms-and-conditions/
+File Name: D:\sites\trendyiptv.com\terms-and-conditions\index.htm
+Content Type: text/html
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-footer-07611977.min.js
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-footer-07611977.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-footer-1bac2202.min.js
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-footer-1bac2202.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-footer-5cae16ff.min.js
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-footer-5cae16ff.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-footer-6326f2ab.min.js
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-footer-6326f2ab.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-footer-7ba24052.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-footer-7ba24052.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-footer-7d972c6c.min.js
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-footer-7d972c6c.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-footer-9b360e94.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-footer-9b360e94.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-footer-b3cf77e2.min.js
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-footer-b3cf77e2.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-footer-e21819e4.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-footer-e21819e4.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-03ed4a54.min.js
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-03ed4a54.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-072a83a7.min.js
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-072a83a7.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-22832f74.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-22832f74.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-2ad78cad.min.js
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-2ad78cad.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-4f0d9f86.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-4f0d9f86.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-5f279f95.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-5f279f95.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-614e9f97.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-614e9f97.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-625f9f98.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-625f9f98.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-65a09f9b.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-65a09f9b.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-85a887c9.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-85a887c9.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-8a87b5be.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-8a87b5be.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-8c4c1302.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-8c4c1302.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-a856453d.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-a856453d.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-ae79395f.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-ae79395f.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-cd569fb8.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-cd569fb8.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-cf7b9fba.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-cf7b9fba.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/cache/wpo-minify/1704397930/assets/wpo-minify-header-d57535b5.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\cache\wpo-minify\1704397930\assets\wpo-minify-header-d57535b5.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/chaty/css/chaty-front.min.css?ver=3.1.81703945931
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\chaty\css\chaty-front.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/chaty/images/header-bottom.png
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\chaty\images\header-bottom.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/plugins/chaty/images/header-top.png
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\chaty\images\header-top.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/plugins/chaty/images/whatsapp.png
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\chaty\images\whatsapp.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/plugins/chaty/js/cht-front-script.min.js?ver=3.1.81703945931
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\chaty\js\cht-front-script.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.13.1
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor-pro\assets\css\widget-theme-elements.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.13.1
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.13.1
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.13.1
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.18.3
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.18.3
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.3
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.18.3
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.25.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.25.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.25.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.25.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.ttf
+Content Type: font/ttf
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.25.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff2
+Content Type: font/woff2
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.25.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.0.4
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.0.4
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit-1.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.0.4
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.0.4
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.0.4
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.0.4
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.0.4
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/css/elegant.css?ver=1.0.7
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\css\elegant.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/css/linearicons.css?ver=1.0.7
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\css\linearicons.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/css/themify.css?ver=1.0.7
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\css\themify.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/ElegantIcons.eot
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/ElegantIcons.eot?
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\ElegantIcons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/ElegantIcons.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\ElegantIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/ElegantIcons.ttf
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\ElegantIcons.ttf
+Content Type: font/ttf
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/ElegantIcons.woff
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\ElegantIcons.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.eot
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.eot?
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.eot?w118d
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.svg?w118d
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.ttf
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free.ttf
+Content Type: font/ttf
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.ttf?w118d
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free-1.ttf
+Content Type: font/ttf
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.woff
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.woff2
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free.woff2
+Content Type: font/woff2
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.woff2?w118d
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free-1.woff2
+Content Type: font/woff2
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/Linearicons-Free.woff?w118d
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\Linearicons-Free-1.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/themify.eot
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/themify.eot?-fvbane
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/themify.svg?-fvbane
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/themify.ttf
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/themify.ttf?-fvbane
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\themify-1.ttf
+Content Type: font/ttf
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/themify.woff
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/skyboot-custom-icons-for-elementor/assets/fonts/themify.woff?-fvbane
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\skyboot-custom-icons-for-elementor\assets\fonts\themify-1.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=8.4.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=8.4.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=8.4.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=8.4.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: font/ttf
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=8.4.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=8.4.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js?ver=8.4.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\js\frontend\checkout.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=8.4.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.4.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.4.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.4.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.8.4.0
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/blocks-checkout.js?ver=a411b6a2a26155a3c1de
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\blocks-checkout.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/blocks-components.js?ver=dab91a510c739bb474ea
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\blocks-components.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart-frontend.js?ver=fac5397cafbd3773725e
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\cart-frontend.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/checkout-frontend.js?ver=929837ae514d0192f8e7
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\checkout-frontend.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/checkout.css?ver=11.6.2
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\checkout.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/packages-style.css?ver=11.6.2
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\packages-style.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/price-format.js?ver=eb7a7398126f71912b09
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\price-format.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-data.js?ver=326bfa85ea7d1844658b
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-data.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-middleware.js?ver=ca04183222edaf8a26be
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-middleware.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-registry.js?ver=7a619513a517fee9fa99
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-registry.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-context.js?ver=6eb6865831aa5a75475d
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-context.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-hocs.js?ver=5e01ba7861e4c09bce65
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-hocs.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks.css?ver=11.6.2
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-payment-method-cod.js?ver=3118284059f45f4fe3e3
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-payment-method-cod.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-settings.js?ver=526af596d7652d2db0af
+File Name: D:\sites\trendyiptv.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-settings.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.0
+File Name: D:\sites\trendyiptv.com\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.0
+File Name: D:\sites\trendyiptv.com\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/themes/hello-elementor/style.min.css?ver=3.0.0
+File Name: D:\sites\trendyiptv.com\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.0
+File Name: D:\sites\trendyiptv.com\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/bein-sport-logo-cropped-1536x864-1-1024x576.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\bein-sport-logo-cropped-1536x864-1-1024x576.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/bein-sport-logo-cropped-1536x864-1-300x169.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\bein-sport-logo-cropped-1536x864-1-300x169.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/bein-sport-logo-cropped-1536x864-1-600x338.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\bein-sport-logo-cropped-1536x864-1-600x338.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/bein-sport-logo-cropped-1536x864-1-768x432.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\bein-sport-logo-cropped-1536x864-1-768x432.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/bein-sport-logo-cropped-1536x864-1.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\bein-sport-logo-cropped-1536x864-1.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/bg_header.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\bg_header.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/bg_img.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\bg_img.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/DIRECTV_STREAM_2021_logo.svg-1024x346.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\DIRECTV_STREAM_2021_logo.svg-1024x346.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/DIRECTV_STREAM_2021_logo.svg-300x101.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\DIRECTV_STREAM_2021_logo.svg-300x101.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/DIRECTV_STREAM_2021_logo.svg-600x203.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\DIRECTV_STREAM_2021_logo.svg-600x203.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/DIRECTV_STREAM_2021_logo.svg-768x259.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\DIRECTV_STREAM_2021_logo.svg-768x259.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/DIRECTV_STREAM_2021_logo.svg.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\DIRECTV_STREAM_2021_logo.svg.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/Documentaries-2.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\Documentaries-2.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/espn-logo-1536x864-1-1024x576.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\espn-logo-1536x864-1-1024x576.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/espn-logo-1536x864-1-300x169.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\espn-logo-1536x864-1-300x169.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/espn-logo-1536x864-1-600x338.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\espn-logo-1536x864-1-600x338.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/espn-logo-1536x864-1-768x432.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\espn-logo-1536x864-1-768x432.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/espn-logo-1536x864-1.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\espn-logo-1536x864-1.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/fuboTV-1536x1054-1-1024x703.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\fuboTV-1536x1054-1-1024x703.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/fuboTV-1536x1054-1-300x206.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\fuboTV-1536x1054-1-300x206.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/fuboTV-1536x1054-1-600x412.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\fuboTV-1536x1054-1-600x412.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/fuboTV-1536x1054-1-768x527.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\fuboTV-1536x1054-1-768x527.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/fuboTV-1536x1054-1.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\fuboTV-1536x1054-1.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/img_memphis.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\img_memphis.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/img_memphis2.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\img_memphis2.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/iptvsmarters3.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\iptvsmarters3.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/iptvsmarters5.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\iptvsmarters5.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/logp.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\logp.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/Movies-2.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\Movies-2.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/NBA-logo-cropped-1536x864-1-1024x576.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\NBA-logo-cropped-1536x864-1-1024x576.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/NBA-logo-cropped-1536x864-1-300x169.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\NBA-logo-cropped-1536x864-1-300x169.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/NBA-logo-cropped-1536x864-1-600x338.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\NBA-logo-cropped-1536x864-1-600x338.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/NBA-logo-cropped-1536x864-1-768x432.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\NBA-logo-cropped-1536x864-1-768x432.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/NBA-logo-cropped-1536x864-1.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\NBA-logo-cropped-1536x864-1.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/nfl-logo-CROPPED-1536x603-1-1024x402.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\nfl-logo-CROPPED-1536x603-1-1024x402.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/nfl-logo-CROPPED-1536x603-1-300x118.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\nfl-logo-CROPPED-1536x603-1-300x118.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/nfl-logo-CROPPED-1536x603-1-600x236.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\nfl-logo-CROPPED-1536x603-1-600x236.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/nfl-logo-CROPPED-1536x603-1-768x302.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\nfl-logo-CROPPED-1536x603-1-768x302.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/nfl-logo-CROPPED-1536x603-1.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\nfl-logo-CROPPED-1536x603-1.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/premier-league-logo-cropped-1-300x146.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\premier-league-logo-cropped-1-300x146.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/premier-league-logo-cropped-1.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\premier-league-logo-cropped-1.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/SKY-SPORT-CROPPED-300x72.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\SKY-SPORT-CROPPED-300x72.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/05/SKY-SPORT-CROPPED.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\05\SKY-SPORT-CROPPED.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/asset-6-300x125.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\asset-6-300x125.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/asset-6-600x251.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\asset-6-600x251.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/asset-6.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\asset-6.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/background-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\background-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/bg_header.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\bg_header.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item05-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item05-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item06-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item06-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item08-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item08-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item09-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item09-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item10-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item10-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item11.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item11.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item12.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item12.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item13-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item13-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item14-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item14-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item15-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item15-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item16-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item16-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item17-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item17-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item18-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item18-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item21-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item21-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/brand_item22-150x46-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\brand_item22-150x46-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/FOX.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\FOX.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/mwaretv_all_devices-min-768x461-1-300x180.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\mwaretv_all_devices-min-768x461-1-300x180.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/mwaretv_all_devices-min-768x461-1-600x360.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\mwaretv_all_devices-min-768x461-1-600x360.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/mwaretv_all_devices-min-768x461-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\mwaretv_all_devices-min-768x461-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/Peacock-logo-1536x473-1-1024x315.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\Peacock-logo-1536x473-1-1024x315.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/Peacock-logo-1536x473-1-300x92.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\Peacock-logo-1536x473-1-300x92.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/Peacock-logo-1536x473-1-600x185.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\Peacock-logo-1536x473-1-600x185.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/Peacock-logo-1536x473-1-768x237.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\Peacock-logo-1536x473-1-768x237.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/Peacock-logo-1536x473-1.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\Peacock-logo-1536x473-1.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/rev1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\rev1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/rev2.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\rev2.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/rev3.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\rev3.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/rev4.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\rev4.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/rev5-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\rev5-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/rev5.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\rev5.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/rev6.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\rev6.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/Trustpilot-1024x170-1-300x50.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\Trustpilot-1024x170-1-300x50.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/Trustpilot-1024x170-1-600x100.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\Trustpilot-1024x170-1-600x100.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/Trustpilot-1024x170-1-768x128.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\Trustpilot-1024x170-1-768x128.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/Trustpilot-1024x170-1.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\Trustpilot-1024x170-1.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/tv-1024x636-1-300x186.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\tv-1024x636-1-300x186.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/tv-1024x636-1-600x373.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\tv-1024x636-1-600x373.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/tv-1024x636-1-768x477.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\tv-1024x636-1-768x477.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/06/tv-1024x636-1.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\06\tv-1024x636-1.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/12/cropped-512-180x180.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\12\cropped-512-180x180.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/12/cropped-512-192x192.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\12\cropped-512-192x192.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2023/12/cropped-512-32x32.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2023\12\cropped-512-32x32.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/1-100x100.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\1-100x100.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/1-150x150.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\1-150x150.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/1-300x300.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\1-300x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/1-600x600.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\1-600x600.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/1-768x768.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\1-768x768.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/1.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\1.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/12-100x100.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\12-100x100.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/12-150x150.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\12-150x150.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/12-300x300.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\12-300x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/12-600x600.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\12-600x600.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/12-768x768.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\12-768x768.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/12.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\12.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/3-100x100.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\3-100x100.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/3-150x150.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\3-150x150.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/3-300x300.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\3-300x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/3-600x600.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\3-600x600.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/3-768x768.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\3-768x768.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/3.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\3.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/6-100x100.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\6-100x100.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/6-150x150.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\6-150x150.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/6-300x300.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\6-300x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/6-600x600.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\6-600x600.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/6-768x768.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\6-768x768.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/6.jpeg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\6.jpeg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/be.webp
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\be.webp
+Content Type: image/webp
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/bl.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\bl.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/ccjpg.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\ccjpg.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/d.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\d.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/D1.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\D1.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/ei-scaled.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\ei-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/for.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\for.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/FU.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\FU.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/GL.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\GL.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/gos.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\gos.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/images.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\images.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/ir-scaled.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\ir-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/JO.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\JO.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/ni.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\ni.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/ps.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\ps.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/rag.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\rag.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/ro.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\ro.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/sd-scaled.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\sd-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/ted.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\ted.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/The_Killer_202.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\The_Killer_202.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/us-scaled.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\us-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/wi.jpg
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\wi.jpg
+Content Type: image/jpeg
+
+Uri: https://trendyiptv.com/wp-content/uploads/2024/01/yo.png
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\2024\01\yo.png
+Content Type: image/png
+
+Uri: https://trendyiptv.com/wp-content/uploads/elementor/css/post-105.css?ver=1704396906
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\elementor\css\post-105.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/uploads/elementor/css/post-106.css?ver=1704396906
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\elementor\css\post-106.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-content/uploads/elementor/css/post-157.css?ver=1704396906
+File Name: D:\sites\trendyiptv.com\wp-content\uploads\elementor\css\post-157.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2
+File Name: D:\sites\trendyiptv.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/a11y.min.js?ver=7032343a947cfccf5608
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/api-fetch.min.js?ver=0fa4dabf8bf2c7adf21a
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/autop.min.js?ver=dacd785d109317df2707
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\autop.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/blob.min.js?ver=10a1c5c0acdef3d15657
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\blob.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=30ffd7e7e199f10b2a6d
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\block-serialization-default-parser.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/blocks.min.js?ver=7204d43123223474471a
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\blocks.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/compose.min.js?ver=3189b344ff39fef940b7
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\compose.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/data-controls.min.js?ver=fe4ccc8a1782ea8e2cb1
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\data-controls.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/data.min.js?ver=dc5f255634f3da29c8d5
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\data.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/deprecated.min.js?ver=73ad3591e7bc95f4777a
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\deprecated.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/dom.min.js?ver=49ff2869626fbeaacc23
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\dom.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/element.min.js?ver=ed1c7604880e8b574b40
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\element.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\escape-html.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/html-entities.min.js?ver=36a4a255da7dd2e1bf8e
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\html-entities.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/is-shallow-equal.min.js?ver=20c2b06ecf04afb14fee
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/keycodes.min.js?ver=3460bd0fac9859d6886c
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\keycodes.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/notices.min.js?ver=38e88f4b627cf873edd0
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\notices.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/plugins.min.js?ver=c485ff6186cdddabcf91
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/primitives.min.js?ver=6984e6eb5d6157c4fe44
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\primitives.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/priority-queue.min.js?ver=422e19e9d48b269c5219
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\priority-queue.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/private-apis.min.js?ver=11cb2ebaa70a9f1f0ab5
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\private-apis.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/redux-routine.min.js?ver=0be1b2a6a79703e28531
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\redux-routine.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/shortcode.min.js?ver=c128a3008a96e820aa86
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\shortcode.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/style-engine.min.js?ver=17cbc030cba88a42ccb5
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\style-engine.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/url.min.js?ver=b4979979018b684be209
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.2.0
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\vendor\react.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/warning.min.js?ver=122829a085511691f14d
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\warning.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/dist/wordcount.min.js?ver=5a74890fd7c610679e34
+File Name: D:\sites\trendyiptv.com\wp-includes\js\dist\wordcount.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: D:\sites\trendyiptv.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: D:\sites\trendyiptv.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: D:\sites\trendyiptv.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://trendyiptv.com/wp-json/
+File Name: D:\sites\trendyiptv.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fcart%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fcart%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fchannels-list%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fchannels-list%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fcheckout%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fcheckout%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fcontact-us%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fcontact-us%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Ffaq%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Ffaq%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fpricing%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fpricing%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fprivacy-policy%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fprivacy-policy%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fproduct%2F1-month-iptv%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fproduct%2F1-month-iptv%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fproduct%2F12-months-iptv%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fproduct%2F12-months-iptv%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fproduct%2F3-months-iptv%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fproduct%2F3-months-iptv%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fproduct%2F6-months-iptv%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fproduct%2F6-months-iptv%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Frefund-policy%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Frefund-policy%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fterms-and-conditions%2F
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftrendyiptv.com%2Fterms-and-conditions%2F&format=xml
+File Name: D:\sites\trendyiptv.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/pages/1003
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\pages\1003
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/pages/101
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\pages\101
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/pages/1014
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\pages\1014
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/pages/1416
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\pages\1416
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/pages/1417
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\pages\1417
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/pages/496
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\pages\496
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/pages/548
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\pages\548
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/pages/569
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\pages\569
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/pages/583
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\pages\583
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/pages/995
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\pages\995
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/product/1420
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\product\1420
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/product/1422
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\product\1422
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/product/1423
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\product\1423
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/product/1425
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\product\1425
+Content Type: application/json
+
+Uri: https://trendyiptv.com/wp-json/wp/v2/product_cat/29
+File Name: D:\sites\trendyiptv.com\wp-json\wp\v2\product_cat\29
+Content Type: application/json
+
+Uri: https://trendyiptv.com/xmlrpc.php?rsd
+File Name: D:\sites\trendyiptv.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-KC2S217V5W
+File Name: D:\sites\trendyiptv.com\gtag\js
+Content Type: application/javascript
+
