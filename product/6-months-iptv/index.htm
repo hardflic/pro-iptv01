@@ -3,6 +3,20 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script type="text/javascript">
+        document.addEventListener('contextmenu', function(e) {
+            e.preventDefault();
+        });
+    </script>
+    <script type="text/javascript">
+        document.addEventListener('keydown', function(e) {
+            // Vérifier si la touche pressée est Ctrl et la combinaison Ctrl+U
+            if ((e.ctrlKey || e.metaKey) && e.key === 'u') {
+                e.preventDefault(); // Empêcher l'action par défaut (afficher le code source)
+                alert("La combinaison Ctrl+U est désactivée.");
+            }
+        });
+    </script>
 		<title>6 MONTHS IPTV &#8211; Trendy Provider </title>
 <meta name='robots' content='max-image-preview:large'>
 <link rel="alternate" type="application/rss+xml" title="Trendy Provider  &raquo; Feed" href="../../feed/index.htm">
